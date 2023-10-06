@@ -1,0 +1,8 @@
+# Uncomment below two lines to replicate detector issue
+# detectors:
+#   IrresponsibleModule:
+
+#   Uncomment below 3 lines to replicate directories isUe
+directories:
+  "app":
+    NestedIterators:
